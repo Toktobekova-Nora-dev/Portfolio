@@ -1,0 +1,11 @@
+.Link {
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
+  color: white;
+  margin-top: 20px;
+}
+
+.Link:hover {
+  color: rgb(16, 97, 173);
+}
