@@ -18,10 +18,12 @@ const page = () => {
             </span>
           </h1>
           <p className="text-gray-200 text-lg hidden md:block ">
-            I'm Nora, a passionate front end developer dedicated to creating
-            engaging and user friendly web applications. Explore my work and
-            let's embark on a journey of innovation and creativity together.
+            I&apos;m Nora, a passionate front end developer dedicated to
+            creating engaging and user friendly web applications. Explore my
+            work and let&apos;s embark on a journey of innovation and creativity
+            together.
           </p>
+
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
               href="/my-skills"
