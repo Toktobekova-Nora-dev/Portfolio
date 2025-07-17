@@ -11,16 +11,16 @@ const page = () => {
       >
         <div className="pl-20 md:pl-50 pb-56 md:pb-20 flex flex-col gap-5 z-[10] max-w-[750]">
           <h1 className="text-[50px] text-white font-semibold">
-            Hi, I'm Nora
+            Hi, I&apos;m Nora
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500 ">
               <br />
               Frontend Developer
             </span>
           </h1>
           <p className="text-gray-200 text-lg hidden md:block ">
-            I’m Nora, a passionate front end developer dedicated to creating
+            I'm Nora, a passionate front end developer dedicated to creating
             engaging and user friendly web applications. Explore my work and
-            let’s embark on a journey of innovation and creativity together.
+            let's embark on a journey of innovation and creativity together.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
