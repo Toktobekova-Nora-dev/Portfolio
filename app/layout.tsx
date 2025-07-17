@@ -13,11 +13,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "My Portfolio",
-  description: "Welcome to my portfolio site",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
